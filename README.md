@@ -7,7 +7,7 @@ I specialize in developing and deploying advanced AI systems with a focus on **R
 ## 🔬 What I'm Working On
 
 - Contributing to **Hugging Face TRL** (Transformer Reinforcement Learning) - 16.3k+ ⭐
-- Building **OpenVoiceChat** - A library for creating voice agents (252 ⭐)
+- Contributing to **OpenVoiceChat** - A library for creating voice agents (252 ⭐)
 - Researching hallucination-free speech-to-text systems
 - Developing end-to-end audio models for voice interactions
 

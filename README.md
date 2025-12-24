@@ -25,7 +25,7 @@ I specialize in developing and deploying advanced AI systems with a focus on **R
 
 ## 📚 Published Research
 
-**[Mitigating Hallucinations in Speech-to-Text Systems](https://ieeexplore.ieee.org)** - IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)
+**[Mitigating Hallucinations in Speech-to-Text Systems](https://ieeexplore.ieee.org/abstract/document/11141067)** - IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)
 
 ## 💻 Tech Stack
 
